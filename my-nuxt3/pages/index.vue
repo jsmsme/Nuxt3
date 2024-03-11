@@ -1,5 +1,5 @@
 <template>
-    <div> 555555 asdsa</div>
+    <div> 555555 as</div>
 </template>
 
 <script setup lang="ts">
