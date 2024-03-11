@@ -1,5 +1,5 @@
 <template>
-    <div> Jassad21321wqesad </div>
+    <div> Jassad </div>
 </template>
 
 <script setup lang="ts">
