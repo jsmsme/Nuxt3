@@ -1,5 +1,5 @@
 <template>
-    <div> 555555 ฟกดหฟกหas</div>
+    <div> 555555 ฟกดหs</div>
 </template>
 
 <script setup lang="ts">
